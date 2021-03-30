@@ -1,0 +1,1 @@
+web: gunicorn FinelYearProject.wsgi --log-file -
